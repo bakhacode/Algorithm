@@ -1,4 +1,4 @@
-// [PGR]Lv.1/부족한 금액 계산하기/8m25s/23-01-12
+// [PRG]Lv.1/부족한 금액 계산하기/8m25s/23-01-12
 // https://school.programmers.co.kr/learn/courses/30/lessons/82612
 
 function solution(price, money, count) {

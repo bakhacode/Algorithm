@@ -1,4 +1,4 @@
-// [PGR]Lv.1/약수의 개수와 덧셈//1h15m/23-01-12
+// [PRG]Lv.1/약수의 개수와 덧셈//1h15m/23-01-12
 // https://school.programmers.co.kr/learn/courses/30/lessons/77884
 
 function solution(left, right) {
