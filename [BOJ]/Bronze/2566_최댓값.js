@@ -7,7 +7,7 @@ let input = fs.readFileSync(file).toString().trim().split("\n");
 
 const arr = [];
 const maxArr = [];
-for (let i = 0; i < input.length; i++) {
+for (let i = 0; i < input.length; i++) {ㅎ
     arr.push(input[i].split(" ").map(Number));
     maxArr.push(Math.max(...input[i].split(" ").map(Number)));
 }
