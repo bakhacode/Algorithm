@@ -1,4 +1,4 @@
-// [BOJ]Bronze3/약수 구하기//23-02-19
+// [BOJ]Bronze3/약수 구하기/7m41s/23-02-19
 // https://www.acmicpc.net/problem/2501
 
 const fs = require("fs");
