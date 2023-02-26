@@ -3,7 +3,7 @@
 
 const fs = require("fs");
 const file = process.platform === "linux" ? "dev/stdin" : "./input.txt";
-let input = fs.readFileSync(file).map(Number).toS햣 tring().trim();
+let input = fs.readFileSync(file).map(Number).toString().trim();
 
 const n = input;
 
